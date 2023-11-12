@@ -11,15 +11,16 @@ const initialFilter: VehicleFilter = {
 
 export default function App() {
   const [vehicles, setVehicles] = useState<Vehicle[]>([]);
+  const [filter, setFilter] = useState(initialFilter);
 
   useEffect(() => {
-    const data = VehicleApi.search(initialFilter);
+    const data = VehicleApi.search(filter);
     setVehicles(data);
-  }, []);
+  }, [filter]);
 
   return (
     <>
-      <Filter />
+      <Filter filter={filter} onChange={setFilter} />
       <Table vehicles={vehicles} />
     </>
   );
