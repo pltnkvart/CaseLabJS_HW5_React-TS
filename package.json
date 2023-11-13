@@ -1,6 +1,7 @@
 {
   "name": "react-typescript-task",
   "version": "0.1.0",
+  "homepage": "https://pltnkvart.github.io/CaseLabJS_HW5_React-TS",
   "private": true,
   "dependencies": {
     "@skbkontur/react-ui": "2.3.0",
