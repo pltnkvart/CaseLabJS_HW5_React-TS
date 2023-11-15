@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/CaseLabJS_HW5_React-TS/static/js/main.275e8e47.chunk.js",
+    "main.js.map": "/CaseLabJS_HW5_React-TS/static/js/main.275e8e47.chunk.js.map",
+    "runtime-main.js": "/CaseLabJS_HW5_React-TS/static/js/runtime-main.1ac1bf5c.js",
+    "runtime-main.js.map": "/CaseLabJS_HW5_React-TS/static/js/runtime-main.1ac1bf5c.js.map",
+    "static/js/2.11143aa2.chunk.js": "/CaseLabJS_HW5_React-TS/static/js/2.11143aa2.chunk.js",
+    "static/js/2.11143aa2.chunk.js.map": "/CaseLabJS_HW5_React-TS/static/js/2.11143aa2.chunk.js.map",
+    "index.html": "/CaseLabJS_HW5_React-TS/index.html",
+    "precache-manifest.163515d44642bf8a1b8335641d8d00ef.js": "/CaseLabJS_HW5_React-TS/precache-manifest.163515d44642bf8a1b8335641d8d00ef.js",
+    "service-worker.js": "/CaseLabJS_HW5_React-TS/service-worker.js",
+    "static/js/2.11143aa2.chunk.js.LICENSE.txt": "/CaseLabJS_HW5_React-TS/static/js/2.11143aa2.chunk.js.LICENSE.txt",
+    "static/media/Kontur-Iconic-eco-20px.woff2": "/CaseLabJS_HW5_React-TS/static/media/Kontur-Iconic-eco-20px.98878a7f.woff2",
+    "static/media/Kontur-Iconic-eco-20px.eot": "/CaseLabJS_HW5_React-TS/static/media/Kontur-Iconic-eco-20px.b811ce6c.eot",
+    "static/media/Kontur-Iconic-eco-20px.woff": "/CaseLabJS_HW5_React-TS/static/media/Kontur-Iconic-eco-20px.cc8e65cb.woff",
+    "static/media/fallback_circle.png": "/CaseLabJS_HW5_React-TS/static/media/fallback_circle.7d850235.png",
+    "static/media/fallback_circle_big.png": "/CaseLabJS_HW5_React-TS/static/media/fallback_circle_big.7890347b.png",
+    "static/media/fallback_circle_normal.png": "/CaseLabJS_HW5_React-TS/static/media/fallback_circle_normal.dae3133e.png",
+    "static/media/font.woff2": "/CaseLabJS_HW5_React-TS/static/media/font.7b359e7d.woff2",
+    "static/media/font.eot": "/CaseLabJS_HW5_React-TS/static/media/font.dc62e0fc.eot",
+    "static/media/font.woff": "/CaseLabJS_HW5_React-TS/static/media/font.f01e8d15.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac1bf5c.js",
+    "static/js/2.11143aa2.chunk.js",
+    "static/js/main.275e8e47.chunk.js"
+  ]
+}
